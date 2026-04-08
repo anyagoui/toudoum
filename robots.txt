@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /improve my website/
+
+Sitemap: https://toudoum.co/sitemap.xml
