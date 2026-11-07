@@ -11,6 +11,19 @@
 
 ## Pages
 - [Accueil](https://www.toudoum.co/) : offres, exemples de sites réalisés, FAQ, avis clients
+- [Réalisations](https://www.toudoum.co/realisations.html) : les sites et maquettes créés par Toudoum
+- [Études de cas](https://www.toudoum.co/etudes-de-cas.html) : le point de départ, le travail fait et les résultats mesurés
+- [Méthode](https://www.toudoum.co/methode.html) : appel de 10 minutes, maquette gratuite sous 24h, puis mise en ligne
+- [Offres](https://www.toudoum.co/offres.html) : Essentiel, Pro, Sur mesure
+- [L’agence](https://www.toudoum.co/agence.html) : l’équipe Toudoum
+- [Blog](https://www.toudoum.co/blog.html) : conseils référencement Google, fiche Google, ChatGPT
+- [Contact](https://www.toudoum.co/contact.html) : maquette gratuite, audit de site, question
+- [Pourquoi mon site n’apparaît pas sur Google ? Les 7 causes les plus fréquentes](https://www.toudoum.co/article-pourquoi-site-pas-sur-google.html) : SEO
+- [Fiche Google : le guide pas à pas pour la remplir à 100 %](https://www.toudoum.co/article-fiche-google-business-guide.html) : Référencement local
+- [GEO : comment être recommandé par ChatGPT et les IA](https://www.toudoum.co/article-geo-etre-recommande-par-chatgpt.html) : GEO
+- [Combien de temps faut-il pour apparaître sur Google ?](https://www.toudoum.co/article-combien-de-temps-apparaitre-google.html) : SEO
+- [Comment écrire un article de blog qui ramène des clients](https://www.toudoum.co/article-ecrire-article-blog-qui-ramene-des-clients.html) : Conseils
+- [5 erreurs qui plombent le référencement Google de votre site](https://www.toudoum.co/article-5-erreurs-referencement-google.html) : SEO
 - [Avant de payer un site : les 5 vérifications](https://www.toudoum.co/avant-de-payer.html) : la checklist officielle et les réponses de Toudoum
 - [L'agence des artisans : tous les métiers](https://www.toudoum.co/site-internet-artisan.html)
 - [Site internet pour plombier](https://www.toudoum.co/site-internet-plombier.html)
@@ -34,6 +47,14 @@
 - [Site internet pour chauffeur VTC](https://www.toudoum.co/site-internet-vtc.html)
 - [Site internet pour formateur](https://www.toudoum.co/site-internet-formation.html)
 - [Site internet pour créateur de marque](https://www.toudoum.co/site-internet-marque.html)
+
+## Guides
+- [Prix d'un site internet d'artisan en 2026](https://www.toudoum.co/guide-prix-site-internet-artisan.html) : les vraies fourchettes du marché et les questions qui protègent votre budget
+- [Être propriétaire de son site](https://www.toudoum.co/guide-proprietaire-de-son-site.html) : domaine, fichiers, contenus, accès — ce qui doit être à votre nom
+- [Les 7 éléments d'un site d'artisan qui ramène des clients](https://www.toudoum.co/guide-site-artisan-elements-indispensables.html)
+- [Mentions légales](https://www.toudoum.co/mentions-legales.html)
+- [Politique de confidentialité](https://www.toudoum.co/politique-confidentialite.html)
+
 
 ## Guides
 - [Prix d'un site internet d'artisan en 2026](https://www.toudoum.co/guide-prix-site-internet-artisan.html) : les vraies fourchettes du marché et les questions qui protègent votre budget
