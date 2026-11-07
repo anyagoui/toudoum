@@ -308,7 +308,7 @@ table.cmp{width:100%;border-collapse:collapse;background:var(--paper);border-rad
 /* contact */
 .contact{display:grid;grid-template-columns:1fr 1.05fr;gap:70px;align-items:start}
 .steps-mini{list-style:none;margin-top:30px}
-.steps-mini li{display:flex;gap:16px;align-items:center;padding:17px 0;border-bottom:1px solid rgba(236,228,209,.14);font-size:17px}
+.steps-mini li{display:flex;gap:16px;align-items:center;padding:17px 0;border-bottom:1px solid rgba(236,228,209,.14);font-size:17px;color:var(--ivory)}
 .steps-mini b{width:40px;height:40px;flex:0 0 40px;border-radius:50%;background:var(--blush);color:var(--wine);display:flex;align-items:center;justify-content:center;font:600 18px Fraunces}
 form.card{background:var(--paper);border-radius:26px;padding:44px;box-shadow:0 30px 70px rgba(0,0,0,.3);color:var(--ink)}
 form.card h3{font-size:30px;margin-bottom:24px}
