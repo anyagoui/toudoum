@@ -15,6 +15,17 @@
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
+  // menu téléphone
+  var burger = document.querySelector('.burger');
+  if (burger && nav) {
+    burger.addEventListener('click', function () {
+      var open = nav.classList.toggle('open');
+      burger.setAttribute('aria-expanded', open ? 'true' : 'false');
+      burger.setAttribute('aria-label', open ? 'Fermer le menu' : 'Ouvrir le menu');
+    });
+    nav.querySelectorAll('nav a').forEach(function (a) { a.addEventListener('click', function () { nav.classList.remove('open'); }); });
+  }
+
   if (glow && window.matchMedia('(pointer:fine)').matches) {
     window.addEventListener('mousemove', function (e) {
       glow.style.opacity = 1;
